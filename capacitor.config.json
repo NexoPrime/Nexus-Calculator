@@ -1,0 +1,6 @@
+{
+  "appId": "com.nexus.calculator",
+  "appName": "NEXUS Calculator",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
